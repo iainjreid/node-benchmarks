@@ -1,0 +1,8 @@
+# IDE related paths
+/.vscode
+/.idea
+
+# Node.js and NPM related paths
+/node_modules
+/npm-debug.log
+/package-lock.json

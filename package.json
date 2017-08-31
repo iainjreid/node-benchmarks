@@ -1,0 +1,32 @@
+{
+  "name": "node-benchmarks",
+  "version": "1.0.0",
+  "description": "A suite of benchmarks measure native performance against custom implementations",
+  "main": "index.js",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iainreid820/node-benchmarks.git"
+  },
+  "keywords": [
+    "node",
+    "benchmark",
+    "benchmarks"
+  ],
+  "author": {
+    "name": "Iain Reid",
+    "email": "iainreid382@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iainreid820/node-benchmarks/issues"
+  },
+  "homepage": "https://github.com/iainreid820/node-benchmarks#readme"
+}
