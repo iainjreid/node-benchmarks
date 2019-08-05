@@ -20,7 +20,7 @@
     "benchmark",
     "benchmarks"
   ],
-  "author": "Iain Reid <iainreid382@gmail.com>",
+  "author": "Iain Reid <iainreid382@gmail.com> (https://chaff.land)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/iainreid820/node-benchmarks/issues"
